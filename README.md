@@ -29,3 +29,4 @@ automatically resets and the counter starts again from zero.
 This project is suitable for frontend development or web technologies
 laboratory experiments and demonstrations.
 "# exp2" 
+"# counter" 
